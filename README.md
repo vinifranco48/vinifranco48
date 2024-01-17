@@ -20,3 +20,5 @@
 ## Atualmente, estou estudando Machine Learning e pretendo ingressar na área de Ciência de Dados.
 ### Projetos 
 <a href="https://github.com/vinifranco48/julIA">JulIA: Inteligência Artificial sobre Direitos do Consumidor.</a>
+
+<a href="https://github.com/vinifranco48/pricing_new/blob/main/README.md">Precificação com Machine Learning.</a>
