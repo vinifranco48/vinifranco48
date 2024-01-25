@@ -22,3 +22,5 @@
 <a href="https://github.com/vinifranco48/julIA">JulIA: Inteligência Artificial sobre Direitos do Consumidor.</a>
 
 <a href="https://github.com/vinifranco48/pricing_new/blob/main/README.md">Precificação com Machine Learning.</a>
+
+<a href="https://github.com/vinifranco48/analise_rfv/blob/main/README.md">Segmentação de clientes com K-means.</a>
